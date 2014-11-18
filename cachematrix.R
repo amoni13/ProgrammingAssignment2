@@ -1,4 +1,4 @@
-## x<-makeCacheMatrix()will create a list of the original matrix and the solved matrix
+## x<-makeCacheMatrix()will create a list of the original matrix and the cached matrix
 ## cacheSolve(x) used in conjunction with above, will look for the cached matrix or, if NULL, solve for its inverse
 
 ## makeCacheMatrix will create a list of the original matrix and the cached matrix
